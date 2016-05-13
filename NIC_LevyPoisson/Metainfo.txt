@@ -7,7 +7,7 @@ Description:       NIC_LevyPoisson simulates a compound poisson process with dri
 				   
 Keywords:          Levy process, stochastic process, simulation, poisson process, jump intensity, return, density
 
-See also:          NIC_LevyJumpDiffusion
+See also:          NIC_LevyJumpDiffusion, NIC_LevyStableProcess
 
 Author:            Roman Lykhnenko
 

@@ -10,7 +10,7 @@ Description:       Simulates a jump diffusion process with drift b and jump inte
 Keywords:          Levy process, stochastic process, jump diffusion, gaussian, jump intensity, drift, 
 				   simulation, density
 
-See also:          NIC_LevyPoisson
+See also:          NIC_LevyPoisson, NIC_LevyStableProcess
 
 Author:            Roman Lykhnenko
 
