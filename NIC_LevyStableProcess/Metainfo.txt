@@ -3,7 +3,7 @@
 Published in:      Numerical Introductory Course - Student Project on "Simulation of the Lévy processes"
 
 Description:       Simulates an alpha stable Lévy process and plots the simulated data, log returns and 
-				   the density of log returns.
+	           the density of log returns.
 				   
 Keywords:          Levy process, stochastic process, simulation, stable, return, density, jump, fat tails
 
