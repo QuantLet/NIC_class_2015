@@ -3,7 +3,7 @@
 Published in:      Numerical Introductory Course - Student Project on "Simulation of the Lévy processes"
 
 Description:       NIC_LevyPoisson simulates a compound poisson process with drift b and jump intensity lambda.
-				   Additionally the simulated data, log returns and density of log returns are plotted
+	           Additionally the simulated data, log returns and density of log returns are plotted.
 				   
 Keywords:          Levy process, stochastic process, simulation, poisson process, jump intensity, return, density
 
@@ -17,4 +17,4 @@ Datafile:
 
 Input:             
 
-Example:           Plot of data. log returns an density of log returns
+Example:           Plot of data, log returns an density of log returns.
