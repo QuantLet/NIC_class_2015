@@ -7,7 +7,7 @@ Description:       Plots the order of computations of the Discrete Fourier Trans
 
 Keywords:          DFT, FFT, run time, complexity, comparison, numerical methods
 
-See also:          
+See also:          NIC_FFTAlgorithm, NIC_FFTImageProcessing, NIC_FFTMAFilter
 
 Author:            Tim Radke
 
