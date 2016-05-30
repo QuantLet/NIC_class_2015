@@ -6,7 +6,7 @@ Description:       'Simulates a jump diffusion process with drift b and jump int
 	           process consists of a Gaussian component and a jump component. Additionally, the simulated 
 	           data, the gaussian component, the jump components, log returns and the density of log 
 	           returns are plotted. '
-				   
+
 Keywords:         'Levy process, stochastic process, jump diffusion, gaussian, jump intensity, drift, simulation, density'
 
 See also:          'NIC_LevyPoisson, NIC_LevyStableProcess'
