@@ -3,6 +3,11 @@ rm(list = ls())
 
 # setwd('~/Tim_Radtke_NIC')
 
+install.packages("pixmap")
+library("pixmap")
+install.packages("smoothie")
+library("smoothie")
+
 # Load image of Mount Rushmore for image processing later on
 mtrush1 = read.pnm("mtrush1.pgm")  # uses 'pixmap' library
 # Image source: http://heather.cs.ucdavis.edu/~matloff/ Ignore warning message
