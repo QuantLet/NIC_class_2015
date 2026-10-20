@@ -7,9 +7,9 @@
 ```
 Name of QuantLet: NIC_LevyJumpDiffusion
 
-Published in: Numerical Introductory Course - Student Project on ''Simulation of the Lévy processes'' 
+Published in: Numerical Introductory Course - Student Project on ''Simulation of the Lévy processes''
 
-Description: Simulates a jump diffusion process with drift b and jump intensity lambda. The simulated
+Description: Simulates a jump diffusion process with drift b and jump intensity lambda. The simulated process consists of a Gaussian component and a jump component. Additionally, the simulated data, the gaussian component, the jump components, log returns and the density of log returns are plotted.
 
 Keywords: Levy process, stochastic process, jump diffusion, gaussian, jump intensity, drift, simulation, density
 
