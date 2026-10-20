@@ -7,9 +7,9 @@
 ```
 Name of QuantLet: NIC_FFTAlgorithm
 
-Published in: Numerical Introductory Course - Student Project on ''Fast Fourier Transform'' 
+Published in: Numerical Introductory Course - Student Project on ''Fast Fourier Transform''
 
-Description: Implementation of a naive Fast Fourier Transform achieving the arithmetic but
+Description: Implementation of a naive Fast Fourier Transform achieving the arithmetic but cnot the computational complexity of O(N log N).  The following is a Radix-2 Decimation-in-Time Cooley-Tukey FFT. The supplied data has to have a number of observations that is a power of 2; that means, log2(N) is an integer.
 
 Keywords: FFT, complexity, Cooley-Tukey, Radix-2 algorithm, frequency domain, transformation
 
