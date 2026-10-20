@@ -7,9 +7,9 @@
 ```
 Name of QuantLet: NIC_FFTMAFilter
 
-Published in: Numerical Introductory Course - Student Project on ''Fast Fourier Transform'' 
+Published in: Numerical Introductory Course - Student Project on ''Fast Fourier Transform''
 
-Description: Example of a moving average filter through convolution which has been applied
+Description: Example of a moving average filter through convolution which has been applied on a random walk using the Fast Fourier Transform.
 
 Keywords: FFT, convolution, moving average, filter, random walk
 
