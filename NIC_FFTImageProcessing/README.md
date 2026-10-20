@@ -7,9 +7,9 @@
 ```
 Name of QuantLet: NIC_FFTImageProcessing
 
-Published in: Numerical Introductory Course - Student Project on ''Fast Fourier Transform'' 
+Published in: Numerical Introductory Course - Student Project on ''Fast Fourier Transform''
 
-Description: We perform image processing by applying kernel filters using convolution and the fast Fourier
+Description: We perform image processing by applying kernel filters using convolution and the fast Fourier transform. To do so, we use the ''smoothie'' package and its included kernel2dsmooth() package. We apply these transformations on the image of Mount Rushmore.
 
 Keywords: FFT, convolution, kernel smoothing, image processing, filter
 
