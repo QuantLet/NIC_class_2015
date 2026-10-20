@@ -5,11 +5,9 @@
 </div>
 
 ```
-﻿Name of QuantLet: NIC_FFTComp
+Published in: Numerical Introductory Course - Student Presentation on ''Fast Fourier Transform''
 
-Published in: Numerical Introductory Course - Student Presentation on ''Fast Fourier Transform'' 
-
-Description: Plots the order of computations of the Discrete Fourier Transform (DFT) and the Fast Fourier
+Description: Plots the order of computations of the Discrete Fourier Transform (DFT) and the Fast Fourier Transform (FFT) as a function of the sample size.
 
 Keywords: DFT, FFT, run time, complexity, comparison, numerical methods
 
